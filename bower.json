@@ -1,0 +1,6 @@
+{
+  "name": "marionette tooltip behavior",
+  "dependencies": {
+    "tether-tooltip": "~0.2.2"
+  }
+}
